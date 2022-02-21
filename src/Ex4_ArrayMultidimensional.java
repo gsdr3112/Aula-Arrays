@@ -15,6 +15,8 @@ public class Ex4_ArrayMultidimensional {
              matriz) {
             System.out.println(Arrays.toString(i));
         }
+
+
     }
 
 }
